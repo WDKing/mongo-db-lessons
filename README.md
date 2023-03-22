@@ -1,2 +1,2 @@
 # mongo-db-lessons
-Lessons from the MongoDB University Introduction to MongoDB lesson.
+Lessons from the MongoDB University Introduction to the MongoDB. 
